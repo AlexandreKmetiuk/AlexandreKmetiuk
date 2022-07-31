@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreKmetiuk&theme=react&show_icons=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreKmetiuk&theme=react&show_icons=true"/><br>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKmetiuk&theme=react&show_icons=true" />
 </p>
 </details>
