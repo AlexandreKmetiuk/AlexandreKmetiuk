@@ -23,7 +23,5 @@ You can click the Preview link to take a look at your changes.
 #
 
 <p align="center">  
-  <img align="center" 
-  src="https://github-readme-streak-stats.herokuapp.com?user=AlexandreKmetiuk&theme=react&date_format=n%2Fj%5B%2FY%5D&fire=DD2727&dates=DDBFBD&currStreakLabel=DDD03F&sideLabels=DDD5CC(https://git.io/streak-stats)"
-   />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlexandreKmetiuk&theme=react&date_format=j%2Fn%5B%2FY%5D&fire=DD2727&dates=DDBFBD&currStreakLabel=DDD03F&sideLabels=DDD5CC"/>  
 </p>
